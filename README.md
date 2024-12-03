@@ -3,6 +3,8 @@
 
 This project implements a real-time audio waveform visualizer using HTML, CSS, and JavaScript. It allows users to upload audio files, visualize the audio waveform, and observe the intensity of sound frequencies.
 
+![Screenshot (5)](https://github.com/user-attachments/assets/46d801db-d0fd-45b0-b504-f987527c1d4c)
+
 ## Features
 
 - Upload audio files in various formats.
